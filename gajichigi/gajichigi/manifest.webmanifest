@@ -1,0 +1,17 @@
+{
+  "name": "가지치기",
+  "short_name": "가지치기",
+  "description": "떠오른 생각은 가지로 뻗고, 끝낸 일은 싹둑 쳐내는 메모앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F5F0",
+  "theme_color": "#F7F5F0",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
